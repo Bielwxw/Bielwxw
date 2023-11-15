@@ -5,8 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5582994142487)
 [![Instagram](https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_biell07ofc?utm_source=qr&igshid=YjBjemh6MWZ4ZnJq)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=material-palenight&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades tecnológicas 📈
 
