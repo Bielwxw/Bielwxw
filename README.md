@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_biell07ofc?utm_source=qr&igshid=YjBjemh6MWZ4ZnJq)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=apprentice&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades tecnológicas 📈
 
