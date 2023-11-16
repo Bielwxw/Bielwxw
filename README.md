@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5582994142487)
 [![Instagram](https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_biell07ofc?utm_source=qr&igshid=YjBjemh6MWZ4ZnJq)
 
-<div>
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&locale=pt-br&rank_icon=github"
@@ -36,7 +36,6 @@
       height="180em"
     />
   </picture>
-  <picture>
   <img height="180em" alt="Gatinho programando" src="https://github.com/Bielwxw/Bielwxw/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
 </div>
 
@@ -61,12 +60,10 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
   <img style="width:75px" src="https://media.discordapp.net/attachments/1114681219704168489/1174414133471486065/9cf7b6f6-a9a6-4f69-8b59-29c5a4f1340e.png?ex=65678164&is=65550c64&hm=29c530383dfd493f403cbf222567412a5f9e8653edb8314f44d5813fd94f4537&=">
 </div>
 <br/>
-  
 - [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)
 - [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/)
 
 ##
-
 <picture>
   <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&theme=react&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
