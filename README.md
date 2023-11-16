@@ -8,6 +8,7 @@
 <div>
   <img height="180em" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&rank_icon=github&bg_color=00000000&hide_border=true">
   <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple&bg_color=00000000&hide_border=true">
+  <img height="180em" src="https://github.com/Bielwxw/Bielwxw/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
 </div>
 
 ## Habilidades Tecnológicas 👨🏻‍💻
