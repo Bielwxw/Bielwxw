@@ -1,9 +1,9 @@
 ![Olá! eu sou Gabriel Rodrigues](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=Olá!%20Eu%20sou%20Gabriel%20Rodrigues%20😅%20👋🏻)
 
 <div align="center">
-  <a target="_blank" href="https://bielwxw.github.io"><img alt="Website" src="https://img.shields.io/website?label=Meu%20webSite&style=for-the-badge&url=https://bielwxw.github.io/"></a>
-  <a target="_blank" href="https://linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://t.me/+5582994142487"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://bielwxw.github.io"><img alt="Website" src="https://img.shields.io/website?label=Meu%20webSite&style=for-the-badge&url=https://bielwxw.github.io/"></a>
+  <a href="https://linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/+5582994142487"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
 <div align="center">
