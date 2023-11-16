@@ -18,7 +18,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
       alt="Minhas Estatísticas no Github"
-      height="180em"
+      height="170em"
     />
   </picture>
   <picture>
@@ -33,10 +33,10 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=transparent&hide_border=true&locale=pt-br"
       alt="Linguagens que eu mais utilizo"
-      height="180em"
+      height="170em"
     />
   </picture>
-  <img height="180em" alt="Gatinho programando" src="https://github.com/Bielwxw/Bielwxw/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
+  <img height="170em" alt="Gatinho programando" src="https://github.com/Bielwxw/Bielwxw/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
 </div>
 
 ## Habilidades Tecnológicas 👨🏻‍💻
