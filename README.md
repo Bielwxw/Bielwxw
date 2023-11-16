@@ -10,7 +10,7 @@
   <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple&bg_color=00000000&hide_border=true">
 </div>
 
-## Habilidades Tecnológicas 🚀
+## Habilidades Tecnológicas 👨🏻‍💻
 
 <br/>
 <div style = "display : inline_block">
@@ -34,5 +34,6 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
 - [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)
 - [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/)
 
-## Gráfico de Vida 📈
-[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##
+
+![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&theme=react&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈)
