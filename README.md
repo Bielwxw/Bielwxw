@@ -60,6 +60,7 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
   <img style="width:75px" src="https://media.discordapp.net/attachments/1114681219704168489/1174414133471486065/9cf7b6f6-a9a6-4f69-8b59-29c5a4f1340e.png?ex=65678164&is=65550c64&hm=29c530383dfd493f403cbf222567412a5f9e8653edb8314f44d5813fd94f4537&=">
 </div>
 <br/>
+
 - [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)
 - [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/)
 
