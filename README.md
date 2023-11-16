@@ -6,9 +6,38 @@
 [![Instagram](https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_biell07ofc?utm_source=qr&igshid=YjBjemh6MWZ4ZnJq)
 
 <div>
-  <img height="180em" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&rank_icon=github&bg_color=00000000&hide_border=true">
-  <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple&bg_color=00000000&hide_border=true">
-  <img height="180em" src="https://github.com/Bielwxw/Bielwxw/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&locale=pt-br&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
+      alt=""
+      height="180em"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple&bg_color=00000000&hide_border=true&locale=pt-br"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=transparent&hide_border=true&locale=pt-br"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=transparent&hide_border=true&locale=pt-br"
+      alt="Gabriel's Github Stats"
+      height="180em"
+    />
+  </picture>
+  <picture>
+  <img height="180em" alt="Gatinho programando" src="https://github.com/Bielwxw/Bielwxw/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
 </div>
 
 ## Habilidades Tecnológicas 👨🏻‍💻
