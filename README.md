@@ -17,7 +17,7 @@
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
-      alt=""
+      alt="Minhas Estatísticas no Github"
       height="180em"
     />
   </picture>
@@ -32,7 +32,7 @@
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=transparent&hide_border=true&locale=pt-br"
-      alt="Gabriel's Github Stats"
+      alt="Linguagens que eu mais utilizo"
       height="180em"
     />
   </picture>
@@ -50,7 +50,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="my-sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div><br/>
+</div>
+<br/>
 
 Minha admiração pela tecnologia impulsionou meu constante desejo de inovação e crescimento como desenvolvedor 🤓💻
 
@@ -66,4 +67,18 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
 
 ##
 
-![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&theme=react&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈)
+<picture>
+  <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&theme=react&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
+      media="(prefers-color-scheme: dark)"
+  />
+  <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&theme=github&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
+      alt="Meu Gráfico de Contribuições"
+      width="100%"
+  />
+</picture>
