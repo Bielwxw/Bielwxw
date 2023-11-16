@@ -22,8 +22,10 @@
 Minha admiração pela tecnologia impulsionou meu constante desejo de inovação e crescimento como desenvolvedor 🤓💻
 
 ## Informações extras 📌
-
-- [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)  <img style="width:30px" src="https://play-lh.googleusercontent.com/DxVKD8i1OlpLwBIt8LtI5zLZqp0afABhdWbHs0Sq0lOEacRmr5HGfZsoiJmDysrnXLCo=w240-h480-rw">
-- [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/) <img 
-  style="width:30px" src="https://media.discordapp.net/attachments/1114681219704168489/1174414133471486065/9cf7b6f6-a9a6-4f69-8b59-29c5a4f1340e.png?ex=65678164&is=65550c64&hm=29c530383dfd493f403cbf222567412a5f9e8653edb8314f44d5813fd94f4537&=">
- 
+<div>
+<img style="width:30px" src="https://play-lh.googleusercontent.com/DxVKD8i1OlpLwBIt8LtI5zLZqp0afABhdWbHs0Sq0lOEacRmr5HGfZsoiJmDysrnXLCo=w240-h480-rw">
+<img style="width:35px" src="https://media.discordapp.net/attachments/1114681219704168489/1174414133471486065/9cf7b6f6-a9a6-4f69-8b59-29c5a4f1340e.png?ex=65678164&is=65550c64&hm=29c530383dfd493f403cbf222567412a5f9e8653edb8314f44d5813fd94f4537&=">
+</div>
+  
+- [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)
+- [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/)
