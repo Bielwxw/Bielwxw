@@ -1,4 +1,4 @@
-### Olá ! Eu sou Gabriel Rodrigues 😅 👋🏻
+![Olá! eu sou Gabriel Rodrigues](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=Olá!%20Eu%20sou%20Gabriel%20Rodrigues%20😅%20👋🏻)
 
 [![Website](https://img.shields.io/website?label=Meu%20webSite&style=for-the-badge&url=https://bielwxw.github.io/)](https://bielwxw.github.io)
 [![Likedin](https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
@@ -10,7 +10,8 @@
   <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple&bg_color=00000000&hide_border=true">
 </div>
 
-## Habilidades tecnológicas 📈
+## Habilidades Tecnológicas 🚀
+
 <br/>
 <div style = "display : inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,3 +33,6 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
   
 - [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)
 - [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/)
+
+## Gráfico de Vida 📈
+[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw)](https://github.com/ashutosh00710/github-readme-activity-graph)
