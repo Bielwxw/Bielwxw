@@ -74,7 +74,7 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&theme=github&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Bielwxw&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
       alt="Meu Gráfico de Contribuições"
       width="100%"
   />
