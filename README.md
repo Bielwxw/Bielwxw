@@ -6,19 +6,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_biell07ofc?utm_source=qr&igshid=YjBjemh6MWZ4ZnJq)
 
 <div>
-  <img height="180em" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&rank_icon=github">
-  <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple">
+  <img height="180em" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bielwxw&show_icons=true&theme=midnight-purple&rank_icon=github&bg_color=00000000&hide_border=true">
+  <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwxw&theme=midnight-purple&bg_color=00000000&hide_border=true">
 </div>
 
 ## Habilidades tecnológicas 📈
-
-<div style = "display : inline_block"><br/>
+<br/>
+<div style = "display : inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="my-sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="my-sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
 Minha admiração pela tecnologia impulsionou meu constante desejo de inovação e crescimento como desenvolvedor 🤓💻
