@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bielwxw.github.io"><img alt="Website" src="https://img.shields.io/website?label=Meu%20webSite&style=for-the-badge&url=https://bielwxw.github.io/"></a>
-  <a href="https://linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-rodrigues-364a142a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://t.me/+5582994142487"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
